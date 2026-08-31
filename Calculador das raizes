@@ -1,0 +1,9 @@
+public class raizes {
+    public static void calcularRaizes(double delt, double a, double b){
+        double raiz1 = (-b + Math.sqrt(delt)) / (2 * a);
+        double raiz2 = (-b - Math.sqrt(delt)) / (2 * a);
+
+        System.out.println("Raiz 1 = " + raiz1);
+        System.out.println("Raiz 2 = " + raiz2);
+    }
+}
