@@ -1,1 +1,0 @@
-# sistema-para-calculo-de-Bhaskara
